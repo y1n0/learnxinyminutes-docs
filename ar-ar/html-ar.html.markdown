@@ -5,6 +5,7 @@ contributors:
     - ["Christophe THOMAS", "https://github.com/WinChris"]
 translators:
     - ["Ader", "https://github.com/y1n0"]
+lang: ar-ar
 ---
 
 HTML اختصار ل HyperText Markup Language، أي "لغة ترميز النص التشعبي". 
